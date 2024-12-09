@@ -1,7 +1,7 @@
 # Credit Card History Fraud Detection
 This prpoject is part of the AAI-501 course in MSAAI Applied Artificial Intelligence Program at University of San Diego (USD).
 
-** --Project Status: In progress **
+** --Project Status: Completed **
 
 ### Installation
 
@@ -27,10 +27,10 @@ The main ojective of this project is to create a classification model that can a
 - EDA and inferential statistics
 - Logistic Regression
 - Decition tree
-- Random Forest
+- Linear Support Vector Machine
+- LSTM model
 - Model Evaluation
 - Data Visualization
-- Neural Networks (possibly)
 
 ### Technologies
 - Python
